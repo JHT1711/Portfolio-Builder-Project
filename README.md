@@ -127,7 +127,7 @@ User Input → yfinance API → pandas DataFrame → matplotlib Charts → CSV E
 
 **Jaikhush Thakkar**  
 Double Major in Applied Statistics & Economics | Penn State University  
-[GitHub](https://github.com/JHT1711) • [LinkedIn](https://www.linkedin.com/in/jaikhush-thakkar/)
+[GitHub](https://github.com/JHT1711) • [LinkedIn](www.linkedin.com/in/jaikhush-thakkar-27b21b283)
 
 ---
 
